@@ -16,16 +16,16 @@
 - **Operational context:** Bối cảnh thị trường IT 2026 cạnh tranh gay gắt, cung vượt cầu. Ứng viên rải hàng chục CV trên các nền tảng nhưng liên tục bị loại ở vòng screening.
 - **Recurring workflow:** Tìm tin tuyển dụng -> Nộp CV -> Nhận email từ chối chung chung -> Hoang mang sửa lại CV -> Nộp tiếp.
 - **Pain moment:** Khi bị loại hồ sơ khỏi một công ty Product yêu thích mà không nhận được feedback lý do, khiến họ mất định hướng học tập và rơi vào rủi ro thất nghiệp dài hạn.
-- **Why now:** Năm 2026, yêu cầu tuyển dụng Data/AI chuyển dịch mạnh mẽ (đòi hỏi MLOps, LLMOps, Data Governance thay vì chỉ code Python cơ bản). Ứng viên bắt buộc phải nâng cấp kỹ năng liên tục để không bị đào thải.
+- **Why now:** Năm 2026, yêu cầu tuyển dụng IT chuyển dịch mạnh mẽ (vì sự phát triển của AI). Ứng viên bắt buộc phải nâng cấp kỹ năng liên tục để không bị đào thải.
 - **Access path:** Hợp tác với các CLB học thuật (như tại ĐH Bách Khoa), các cộng đồng sinh viên IT, và các KOL hướng nghiệp.
-- **One-sentence description:** > Sinh viên IT/Data mới ra trường đang tuyệt vọng vì rải CV không ai gọi, cần công cụ chỉ ra chính xác mình đang thiếu kỹ năng công nghệ gì so với thị trường khắt khe năm 2026.
+- **One-sentence description:** > Sinh viên IT mới ra trường đang tuyệt vọng vì rải CV không ai gọi, cần công cụ chỉ ra chính xác mình đang thiếu kỹ năng công nghệ gì so với thị trường khắt khe năm 2026.
 
 ## 3. Need Map (2-3 needs)
 ### Need #1 (priority)
 - **Statement (JTBD):** When [tôi apply vào vị trí công việc mong muốn nhưng bị rớt hồ sơ], I want [biết chính xác framework hoặc công nghệ nào (ví dụ: Vector DB hay Fine-tuning) mà JD yêu cầu nhưng CV tôi chưa có], so I can [dừng rải CV vô ích và tập trung học đúng khóa học ngắn hạn để bổ sung].
 - **Current workaround:** Đọc đi đọc lại JD một cách thủ công, nhắn tin hỏi những người đi trước trên LinkedIn hoặc đăng bài hỏi ẩn danh trên diễn đàn.
 - **Pain signal:** Tốn nhiều tháng thất nghiệp rải CV; hoang mang và tốn tiền mua các khóa học trực tuyến không đúng trọng tâm.
-- **Evidence / proxy evidence:** Việc thiếu vắng các kỹ năng nâng cao như RAG hay an ninh mạng khiến sinh viên không vượt qua được vòng lọc hồ sơ của doanh nghiệp. Sự chênh lệch giữa năng lực và đòi hỏi thực tế là cực kỳ rõ ràng.
+- **Evidence / proxy evidence:** Việc thiếu vắng các kỹ năng nâng cao (ví dụ như RAG hay an ninh mạng) khiến sinh viên không vượt qua được vòng lọc hồ sơ của doanh nghiệp. Sự chênh lệch giữa năng lực và đòi hỏi thực tế là cực kỳ rõ ràng.
 - **Why underserved:** Các nền tảng job board hiện tại (TopCV, VietnamWorks) chỉ cung cấp tỷ lệ % matching dựa trên keyword đơn giản, không phân tích theo ngữ cảnh sâu (semantic search) để đưa ra lộ trình "vá lỗi".
 
 ### Need #2
@@ -36,7 +36,7 @@
 - **Why underserved:** Chưa có sự liên kết chặt chẽ giữa công cụ phân tích đánh giá CV và các nhà cung cấp giáo dục (E-learning).
 
 ## 4. Strategy Statement
-- **For** [Sinh viên năm 4 và Fresher ngành IT/Data]
+- **For** [Sinh viên năm 4 và Fresher ngành IT]
 - **who struggle with** [việc liên tục trượt CV vì khoảng cách kỹ năng (skill gap) quá lớn so với yêu cầu thực tế],
 - **our product helps them** [phát hiện chính xác lỗ hổng kiến thức và cung cấp lộ trình học tập tức thì]
 - **through** [một hệ thống AI Agent dùng RAG đối chiếu ngữ nghĩa CV với kho dữ liệu JD thực tế của thị trường],
