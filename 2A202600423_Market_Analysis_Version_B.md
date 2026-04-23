@@ -12,7 +12,7 @@
 > Insight cốt lõi là 70% trong số 50.000 sinh viên IT ra trường mỗi năm tại Việt Nam phải đào tạo lại mới làm việc được trong dự án thực tế. Việc làm đẹp CV bằng template không giải quyết được vấn đề thiếu hụt năng lực. Cơ hội thực sự là một nền tảng "Skill-gap Intelligence" để phân tích từ khóa kỹ năng trong CV đối chiếu với JD thực tế, từ đó chỉ ra những lỗ hổng công nghệ (VD: thiếu kỹ năng RAG, MLOps) và tự động đề xuất các chứng chỉ vi mô (micro-credentials) để ứng viên lấp đầy ngay lập tức.
 
 ## 2. Customer / Segment Card
-- **Segment name:** Sinh viên năm 4 và Fresher ngành IT/Data (dưới 1 năm kinh nghiệm) tại các thành phố lớn.
+- **Segment name:** Sinh viên năm 4 và Fresher ngành IT (dưới 1 năm kinh nghiệm) tại các thành phố lớn.
 - **Operational context:** Bối cảnh thị trường IT 2026 cạnh tranh gay gắt, cung vượt cầu. Ứng viên rải hàng chục CV trên các nền tảng nhưng liên tục bị loại ở vòng screening.
 - **Recurring workflow:** Tìm tin tuyển dụng -> Nộp CV -> Nhận email từ chối chung chung -> Hoang mang sửa lại CV -> Nộp tiếp.
 - **Pain moment:** Khi bị loại hồ sơ khỏi một công ty Product yêu thích mà không nhận được feedback lý do, khiến họ mất định hướng học tập và rơi vào rủi ro thất nghiệp dài hạn.
@@ -22,7 +22,7 @@
 
 ## 3. Need Map (2-3 needs)
 ### Need #1 (priority)
-- **Statement (JTBD):** When [tôi apply vào vị trí Data/AI Engineer nhưng bị rớt hồ sơ], I want [biết chính xác framework hoặc công nghệ nào (ví dụ: Vector DB hay Fine-tuning) mà JD yêu cầu nhưng CV tôi chưa có], so I can [dừng rải CV vô ích và tập trung học đúng khóa học ngắn hạn để bổ sung].
+- **Statement (JTBD):** When [tôi apply vào vị trí công việc mong muốn nhưng bị rớt hồ sơ], I want [biết chính xác framework hoặc công nghệ nào (ví dụ: Vector DB hay Fine-tuning) mà JD yêu cầu nhưng CV tôi chưa có], so I can [dừng rải CV vô ích và tập trung học đúng khóa học ngắn hạn để bổ sung].
 - **Current workaround:** Đọc đi đọc lại JD một cách thủ công, nhắn tin hỏi những người đi trước trên LinkedIn hoặc đăng bài hỏi ẩn danh trên diễn đàn.
 - **Pain signal:** Tốn nhiều tháng thất nghiệp rải CV; hoang mang và tốn tiền mua các khóa học trực tuyến không đúng trọng tâm.
 - **Evidence / proxy evidence:** Việc thiếu vắng các kỹ năng nâng cao như RAG hay an ninh mạng khiến sinh viên không vượt qua được vòng lọc hồ sơ của doanh nghiệp. Sự chênh lệch giữa năng lực và đòi hỏi thực tế là cực kỳ rõ ràng.
