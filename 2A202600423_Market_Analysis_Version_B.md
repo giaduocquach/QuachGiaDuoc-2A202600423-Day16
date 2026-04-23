@@ -9,7 +9,7 @@
 > Dùng AI để tự động chấm điểm CV, sửa lỗi chính tả và thiết kế lại CV cho sinh viên mới ra trường.
 
 **Reframed as a product opportunity:**
-> Insight cốt lõi là 70% trong số 50.000 sinh viên IT ra trường mỗi năm tại Việt Nam phải đào tạo lại mới làm việc được trong dự án thực tế. Việc làm đẹp CV bằng template không giải quyết được vấn đề thiếu hụt năng lực. Cơ hội thực sự là một nền tảng "Skill-gap Intelligence" sử dụng RAG để phân tích từ khóa kỹ năng trong CV đối chiếu với JD thực tế, từ đó chỉ ra những lỗ hổng công nghệ (VD: thiếu kỹ năng RAG, MLOps) và tự động đề xuất các chứng chỉ vi mô (micro-credentials) để ứng viên lấp đầy ngay lập tức.
+> Insight cốt lõi là 70% trong số 50.000 sinh viên IT ra trường mỗi năm tại Việt Nam phải đào tạo lại mới làm việc được trong dự án thực tế. Việc làm đẹp CV bằng template không giải quyết được vấn đề thiếu hụt năng lực. Cơ hội thực sự là một nền tảng "Skill-gap Intelligence" để phân tích từ khóa kỹ năng trong CV đối chiếu với JD thực tế, từ đó chỉ ra những lỗ hổng công nghệ (VD: thiếu kỹ năng RAG, MLOps) và tự động đề xuất các chứng chỉ vi mô (micro-credentials) để ứng viên lấp đầy ngay lập tức.
 
 ## 2. Customer / Segment Card
 - **Segment name:** Sinh viên năm 4 và Fresher ngành IT/Data (dưới 1 năm kinh nghiệm) tại các thành phố lớn.
